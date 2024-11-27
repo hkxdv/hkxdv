@@ -12,14 +12,24 @@
 
 <br/>
 
-<!-- Skills & Tools Section -->
+<!-- Skills & Tools Section 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=24&duration=3000&pause=999999999&repeat=false&color=9745F5&center=true&vCenter=true&random=false&width=435&lines=Favorite+Skills+and+Tools" alt="Favorite Skills and Tools" />
 </div>
 
 <table align="center" width="800px">
   <tr>
-  <br/>
+    <td align="center" width="266px">
+      <img src="https://img.shields.io/badge/-Frontend-9745F5?style=for-the-badge&size=30" />
+    </td>
+    <td align="center" width="266px">
+      <img src="https://img.shields.io/badge/-Backend-9745F5?style=for-the-badge&size=30" />
+    </td>
+    <td align="center" width="266px">
+      <img src="https://img.shields.io/badge/-Tools-9745F5?style=for-the-badge&size=30" />
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img height="64px" src="svg/Astro_dark.svg" alt="Astro" title="Astro"/>
       <br/><br/>
