@@ -19,17 +19,7 @@
 
 <table align="center" width="800px">
   <tr>
-    <td align="center" width="266px">
-      <img src="https://img.shields.io/badge/-Frontend-9745F5?style=for-the-badge&size=30" />
-    </td>
-    <td align="center" width="266px">
-      <img src="https://img.shields.io/badge/-Backend-9745F5?style=for-the-badge&size=30" />
-    </td>
-    <td align="center" width="266px">
-      <img src="https://img.shields.io/badge/-Tools-9745F5?style=for-the-badge&size=30" />
-    </td>
-  </tr>
-  <tr>
+  <br/>
     <td align="center">
       <img height="64px" src="svg/Astro_dark.svg" alt="Astro" title="Astro"/>
       <br/><br/>
