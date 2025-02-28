@@ -70,17 +70,17 @@
 <!-- Featured Projects Section -->
 <div align="center">
     <a href="https://github.com/hk4u-dxv/hk4u-dxv.portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk4u-dxv&repo=hk4u-dxv.portfolio&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk4u-dxv&repo=hk4u-dxv.portfolio&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="Personal Portfolio">
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/hk4u-dxv/backend.hk4u-dxv.portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk4u-dxv&repo=backend.hk4u-dxv.portfolio&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="Backend Portfolio">
+    <a href="https://github.com/hk4u-dxv/sepomex-api-rest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk4u-dxv&repo=sepomex-api-rest&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="Sepomex API REST">
     </a>
 </div>
 
 <div align="center">
-    <a href="https://github.com/hk4u-dxv/API-Twitch-for-Streaming">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk4u-dxv&repo=API-Twitch-for-Streaming&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="API Twitch">
+    <a href="https://github.com/hk4u-dxv/sepomex-psql-db">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk4u-dxv&repo=sepomex-psql-db&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="Sepomex PSQL DB">
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/hk4u-dxv/hk4u-dxv">
