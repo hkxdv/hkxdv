@@ -16,7 +16,7 @@
 <!-- GitHub Stats Section -->
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hk4u-dxv&theme=midnight-purple&hide_border=true"/>
     &nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4u-dxv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&hide=css,plpgsql"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4u-dxv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&hide=css"/>
     <img src="https://capsule-render.vercel.app/api?type=soft&color=9745F5&height=1&section=header"/>
 </div>
 <br/>
