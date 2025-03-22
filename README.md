@@ -10,13 +10,18 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=9745F5&height=1&section=header"/>
 </div>
 
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="svg/github-user-contribution.svg" alt="Snake Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=9745F5&height=1&section=header"/>
+</div>
 <br/>
 
 <div align="center">
 <!-- GitHub Stats Section -->
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hk4u-dxv&theme=midnight-purple&hide_border=true"/>
     &nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4u-dxv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&hide=css"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4u-dxv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10&hide=css"/>
     <img src="https://capsule-render.vercel.app/api?type=soft&color=9745F5&height=1&section=header"/>
 </div>
 <br/>
