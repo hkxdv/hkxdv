@@ -33,7 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkxdv&repo=sepomex-api-rest&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="Sepomex API REST" />
   </a>
   <a href="https://github.com/hkxdv/sepomex-psql-db">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkxdv&repo=sepomex-psql-db&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="Sepomex PSQL DB" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkxdv&repo=astro-shade-dx-template&border_color=9745F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9745F5" alt="Astro Template" />
   </a>
   <hr style="border: 1px solid #9745F5; width: 100%;" />
 </div>
