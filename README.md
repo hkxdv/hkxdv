@@ -30,15 +30,15 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=midnight-purple&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=midnight-purple&hide_border=true&background=0D1117" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=default&hide_border=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10&hide=css" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=default&hide_border=true&layout=compact&langs_count=10&hide=css" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10&hide=css" alt="Most Used Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=default&hide_border=true&layout=compact&langs_count=12&bg_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12&bg_color=0D1117" alt="Most Used Languages" />
   </picture>
   <hr style="border: 1px solid #9745F5; width: 100%;" />
 </div>
