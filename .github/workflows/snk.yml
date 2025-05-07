@@ -1,0 +1,35 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Se ejecuta a medianoche UTC todos los días
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite la ejecución manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hkxdv # Tu nombre de usuario de GitHub
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist
+          # Comprueba si hay cambios para commitear
+          if ! git diff --staged --quiet; then
+            git commit -m "Generate snake animation"
+            git push
+          else
+            echo "No changes to commit."
+          fi
