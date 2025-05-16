@@ -20,9 +20,9 @@
 <!-- Contribution Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="dist/snake-purple-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/snake-purple-light.svg" />
+    <img alt="github-snake" src="dist/snake-purple-light.svg" />
   </picture>
   <hr style="border: 1px solid #9745F5; width: 100%;" />
 </div>
