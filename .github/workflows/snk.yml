@@ -20,13 +20,13 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-purple-theme.svg?color_snake=FFFFFF&color_dots=161b22,4d247f,6f36a7,8c51c8,9745F5
-            dist/snake-purple-fade.svg?color_snake=C9D1D9&color_dots=161b22,3A1E5B,5C2F8C,7B42B8,9745F5
-            dist/snake-light-purple-accent.svg?color_snake=24292E&color_dots=EBEDF0,D8B7FF,C08FFF,A967F5,9745F5
-            dist/snake-deep-purple.svg?color_snake=E0C6FF&color_dots=161b22,2C1240,4D247F,6A35A0,9745F5
-            dist/snake-cyberpunk.svg?color_snake=FF007A&color_dots=0D1117,2A0A4F,5A1D7E,9745F5,E040FB
-            dist/snake-monochrome-accent.svg?color_snake=D1D5DA&color_dots=161b22,30363D,484F58,6E7681,9745F5
-            dist/snake-matrix-green.svg?color_snake=39FF14&color_dots=0D1117,003A00,006000,008C00,00B800
+            dist/github-snake-purple-theme.svg?color_snake=#FFFFFF&color_dots=#161b22,#4d247f,#6f36a7,#8c51c8,#9745F5
+            dist/snake-purple-fade.svg?color_snake=#C9D1D9&color_dots=#161b22,#3A1E5B,#5C2F8C,#7B42B8,#9745F5
+            dist/snake-light-purple-accent.svg?color_snake=#24292E&color_dots=#EBEDF0,#D8B7FF,#C08FFF,#A967F5,#9745F5
+            dist/snake-deep-purple.svg?color_snake=#E0C6FF&color_dots=#161b22,#2C1240,#4D247F,#6A35A0,#9745F5
+            dist/snake-cyberpunk.svg?color_snake=#FF007A&color_dots=#0D1117,#2A0A4F,#5A1D7E,#9745F5,#E040FB
+            dist/snake-monochrome-accent.svg?color_snake=#D1D5DA&color_dots=#161b22,#30363D,#484F58,#6E7681,#9745F5
+            dist/snake-matrix-green.svg?color_snake=#39FF14&color_dots=#0D1117,#003A00,#006000,#008C00,#00B800
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
