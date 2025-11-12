@@ -30,21 +30,21 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=midnight-purple&hide_border=true&background=0D1117" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=midnight-purple&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=default&hide_border=true" />
-    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=hkxdv&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
   </picture>
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=default&hide_border=true&layout=compact&langs_count=12" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12&hide=Css,JavaScript,EJS" alt="Top Languages" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkxdv&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12&hide=Css,JavaScript,EJS" alt="Top Languages" />
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hkxdv&layout=compact&theme=midnight-purple&hide_border=true&langs_count=16&hide=Css,JavaScript" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hkxdv&layout=compact&theme=default&langs_count=16&hide=Css,JavaScript" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hkxdv&layout=compact&theme=midnight-purple&hide_border=true&langs_count=16&hide=Css,JavaScript" alt="WakaTime Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hkxdv&layout=compact&theme=midnight-purple&hide_border=true&langs_count=12&hide=Css,JavaScript" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hkxdv&layout=compact&theme=default&langs_count=12&hide=Css,JavaScript" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hkxdv&layout=compact&theme=midnight-purple&hide_border=true&langs_count=12&hide=Css,JavaScript" alt="WakaTime Stats" />
   </picture>
   <hr style="border: 1px solid #9745F5; width: 100%;" />
 </div>
